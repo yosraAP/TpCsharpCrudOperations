@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "project_Contact_TP/1.0.0": {
+        "dependencies": {
+          "mysql.data": "6.2.2.0"
+        },
+        "runtime": {
+          "project_Contact_TP.dll": {}
+        }
+      },
+      "mysql.data/6.2.2.0": {
+        "runtime": {
+          "mysql.data.dll": {
+            "assemblyVersion": "6.2.2.0",
+            "fileVersion": "6.2.2.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "project_Contact_TP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "mysql.data/6.2.2.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

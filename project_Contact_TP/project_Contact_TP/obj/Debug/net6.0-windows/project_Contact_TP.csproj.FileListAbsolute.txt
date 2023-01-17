@@ -1,0 +1,302 @@
+C:\Users\afsha\source\repos\project_Contact_TP\project_Contact_TP\bin\Debug\net6.0-windows\project_Contact_TP.exe
+C:\Users\afsha\source\repos\project_Contact_TP\project_Contact_TP\bin\Debug\net6.0-windows\project_Contact_TP.deps.json
+C:\Users\afsha\source\repos\project_Contact_TP\project_Contact_TP\bin\Debug\net6.0-windows\project_Contact_TP.runtimeconfig.json
+C:\Users\afsha\source\repos\project_Contact_TP\project_Contact_TP\bin\Debug\net6.0-windows\project_Contact_TP.dll
+C:\Users\afsha\source\repos\project_Contact_TP\project_Contact_TP\bin\Debug\net6.0-windows\project_Contact_TP.pdb
+C:\Users\afsha\source\repos\project_Contact_TP\project_Contact_TP\bin\Debug\net6.0-windows\mysql.data.dll
+C:\Users\afsha\source\repos\project_Contact_TP\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.csproj.AssemblyReference.cache
+C:\Users\afsha\source\repos\project_Contact_TP\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.ui.FormAjouterContact.resources
+C:\Users\afsha\source\repos\project_Contact_TP\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.ui.FormMenu.resources
+C:\Users\afsha\source\repos\project_Contact_TP\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.csproj.GenerateResource.cache
+C:\Users\afsha\source\repos\project_Contact_TP\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\afsha\source\repos\project_Contact_TP\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.AssemblyInfoInputs.cache
+C:\Users\afsha\source\repos\project_Contact_TP\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.AssemblyInfo.cs
+C:\Users\afsha\source\repos\project_Contact_TP\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.csproj.CoreCompileInputs.cache
+C:\Users\afsha\source\repos\project_Contact_TP\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.csproj.CopyComplete
+C:\Users\afsha\source\repos\project_Contact_TP\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.dll
+C:\Users\afsha\source\repos\project_Contact_TP\project_Contact_TP\obj\Debug\net6.0-windows\refint\project_Contact_TP.dll
+C:\Users\afsha\source\repos\project_Contact_TP\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.pdb
+C:\Users\afsha\source\repos\project_Contact_TP\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.genruntimeconfig.cache
+C:\Users\afsha\source\repos\project_Contact_TP\project_Contact_TP\obj\Debug\net6.0-windows\ref\project_Contact_TP.dll
+C:\Users\afsha\source\repos\project_Contact_TP\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.ui.FormAjouterFournisseur.resources
+C:\Users\afsha\source\repos\project_Contact_TP\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.ui.ManipulationCollectioncs.resources
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.csproj.AssemblyReference.cache
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.ui.FormAjouterContact.resources
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.ui.FormAjouterFournisseur.resources
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.ui.FormMenu.resources
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.ui.ManipulationCollectioncs.resources
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.csproj.GenerateResource.cache
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.AssemblyInfoInputs.cache
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.AssemblyInfo.cs
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.csproj.CoreCompileInputs.cache
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.dll
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP\project_Contact_TP\obj\Debug\net6.0-windows\refint\project_Contact_TP.dll
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.pdb
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V1\project_Contact_TP\bin\Debug\net6.0-windows\project_Contact_TP.exe
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V1\project_Contact_TP\bin\Debug\net6.0-windows\project_Contact_TP.deps.json
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V1\project_Contact_TP\bin\Debug\net6.0-windows\project_Contact_TP.runtimeconfig.json
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V1\project_Contact_TP\bin\Debug\net6.0-windows\project_Contact_TP.dll
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V1\project_Contact_TP\bin\Debug\net6.0-windows\project_Contact_TP.pdb
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V1\project_Contact_TP\bin\Debug\net6.0-windows\mysql.data.dll
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V1\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.csproj.AssemblyReference.cache
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V1\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.ui.FormAjouterContact.resources
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V1\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.ui.FormAjouterFournisseur.resources
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V1\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.ui.FormMenu.resources
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V1\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.ui.ManipulationCollectioncs.resources
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V1\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.csproj.GenerateResource.cache
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V1\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V1\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.AssemblyInfoInputs.cache
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V1\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.AssemblyInfo.cs
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V1\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.csproj.CoreCompileInputs.cache
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V1\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.csproj.CopyComplete
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V1\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.dll
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V1\project_Contact_TP\obj\Debug\net6.0-windows\refint\project_Contact_TP.dll
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V1\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.pdb
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V1\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.genruntimeconfig.cache
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V1\project_Contact_TP\obj\Debug\net6.0-windows\ref\project_Contact_TP.dll
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V1\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.ui.FormMenuApp.resources
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V1\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.Properties.Resources.resources
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V1\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.ui.FormEspaceContactBD.resources
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V2\project_Contact_TP\bin\Debug\net6.0-windows\project_Contact_TP.exe
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V2\project_Contact_TP\bin\Debug\net6.0-windows\project_Contact_TP.deps.json
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V2\project_Contact_TP\bin\Debug\net6.0-windows\project_Contact_TP.runtimeconfig.json
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V2\project_Contact_TP\bin\Debug\net6.0-windows\project_Contact_TP.dll
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V2\project_Contact_TP\bin\Debug\net6.0-windows\project_Contact_TP.pdb
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V2\project_Contact_TP\bin\Debug\net6.0-windows\mysql.data.dll
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V2\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.csproj.AssemblyReference.cache
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V2\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.Properties.Resources.resources
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V2\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.ui.FormEspaceContactBD.resources
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V2\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.ui.FormMenuApp.resources
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V2\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.csproj.GenerateResource.cache
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V2\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V2\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.AssemblyInfoInputs.cache
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V2\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.AssemblyInfo.cs
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V2\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.csproj.CoreCompileInputs.cache
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V2\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.csproj.CopyComplete
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V2\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.dll
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V2\project_Contact_TP\obj\Debug\net6.0-windows\refint\project_Contact_TP.dll
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V2\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.pdb
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V2\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.genruntimeconfig.cache
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V2\project_Contact_TP\obj\Debug\net6.0-windows\ref\project_Contact_TP.dll
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V2\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.ui.FormAddFournisseur.resources
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V3\project_Contact_TP\bin\Debug\net6.0-windows\project_Contact_TP.exe
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V3\project_Contact_TP\bin\Debug\net6.0-windows\project_Contact_TP.deps.json
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V3\project_Contact_TP\bin\Debug\net6.0-windows\project_Contact_TP.runtimeconfig.json
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V3\project_Contact_TP\bin\Debug\net6.0-windows\project_Contact_TP.dll
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V3\project_Contact_TP\bin\Debug\net6.0-windows\project_Contact_TP.pdb
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V3\project_Contact_TP\bin\Debug\net6.0-windows\mysql.data.dll
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V3\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.csproj.AssemblyReference.cache
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V3\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.Properties.Resources.resources
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V3\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.ui.FormAddFournisseur.resources
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V3\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.ui.FormAjouterContact.resources
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V3\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.ui.FormAjouterFournisseur.resources
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V3\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.ui.FormEspaceContactBD.resources
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V3\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.ui.FormMenuApp.resources
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V3\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.ui.ManipulationCollectioncs.resources
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V3\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.csproj.GenerateResource.cache
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V3\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V3\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.AssemblyInfoInputs.cache
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V3\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.AssemblyInfo.cs
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V3\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.csproj.CoreCompileInputs.cache
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V3\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.csproj.CopyComplete
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V3\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.dll
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V3\project_Contact_TP\obj\Debug\net6.0-windows\refint\project_Contact_TP.dll
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V3\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.pdb
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V3\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.genruntimeconfig.cache
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V3\project_Contact_TP\obj\Debug\net6.0-windows\ref\project_Contact_TP.dll
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V4\project_Contact_TP\bin\Debug\net6.0-windows\project_Contact_TP.exe
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V4\project_Contact_TP\bin\Debug\net6.0-windows\project_Contact_TP.deps.json
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V4\project_Contact_TP\bin\Debug\net6.0-windows\project_Contact_TP.runtimeconfig.json
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V4\project_Contact_TP\bin\Debug\net6.0-windows\project_Contact_TP.dll
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V4\project_Contact_TP\bin\Debug\net6.0-windows\project_Contact_TP.pdb
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V4\project_Contact_TP\bin\Debug\net6.0-windows\mysql.data.dll
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V4\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.csproj.AssemblyReference.cache
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V4\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.Properties.Resources.resources
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V4\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.ui.FormAddContact.resources
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V4\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.ui.FormAddFournisseur.resources
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V4\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.ui.FormEspaceContactBD.resources
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V4\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.ui.FormMenuApp.resources
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V4\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.ui.ManipulationCollectioncs.resources
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V4\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.csproj.GenerateResource.cache
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V4\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V4\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.AssemblyInfoInputs.cache
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V4\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.AssemblyInfo.cs
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V4\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.csproj.CoreCompileInputs.cache
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V4\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.csproj.CopyComplete
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V4\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.dll
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V4\project_Contact_TP\obj\Debug\net6.0-windows\refint\project_Contact_TP.dll
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V4\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.pdb
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V4\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.genruntimeconfig.cache
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V4\project_Contact_TP\obj\Debug\net6.0-windows\ref\project_Contact_TP.dll
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V4\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.ui.FormContactCollection.resources
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V5\project_Contact_TP\bin\Debug\net6.0-windows\project_Contact_TP.exe
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V5\project_Contact_TP\bin\Debug\net6.0-windows\project_Contact_TP.deps.json
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V5\project_Contact_TP\bin\Debug\net6.0-windows\project_Contact_TP.runtimeconfig.json
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V5\project_Contact_TP\bin\Debug\net6.0-windows\project_Contact_TP.dll
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V5\project_Contact_TP\bin\Debug\net6.0-windows\project_Contact_TP.pdb
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V5\project_Contact_TP\bin\Debug\net6.0-windows\mysql.data.dll
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V5\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.csproj.AssemblyReference.cache
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V5\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.Properties.Resources.resources
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V5\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.ui.FormAddContact.resources
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V5\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.ui.FormAddFournisseur.resources
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V5\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.ui.FormContactCollection.resources
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V5\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.ui.FormEspaceContactBD.resources
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V5\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.ui.FormMenuApp.resources
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V5\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.csproj.GenerateResource.cache
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V5\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V5\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.AssemblyInfoInputs.cache
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V5\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.AssemblyInfo.cs
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V5\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.csproj.CoreCompileInputs.cache
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V5\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.csproj.CopyComplete
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V5\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.dll
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V5\project_Contact_TP\obj\Debug\net6.0-windows\refint\project_Contact_TP.dll
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V5\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.pdb
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V5\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.genruntimeconfig.cache
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V5\project_Contact_TP\obj\Debug\net6.0-windows\ref\project_Contact_TP.dll
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V22\project_Contact_TP\bin\Debug\net6.0-windows\project_Contact_TP.exe
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V22\project_Contact_TP\bin\Debug\net6.0-windows\project_Contact_TP.deps.json
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V22\project_Contact_TP\bin\Debug\net6.0-windows\project_Contact_TP.runtimeconfig.json
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V22\project_Contact_TP\bin\Debug\net6.0-windows\project_Contact_TP.dll
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V22\project_Contact_TP\bin\Debug\net6.0-windows\project_Contact_TP.pdb
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V22\project_Contact_TP\bin\Debug\net6.0-windows\mysql.data.dll
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V22\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.csproj.AssemblyReference.cache
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V22\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.Properties.Resources.resources
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V22\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.ui.FormAddContact.resources
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V22\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.ui.FormAddFournisseur.resources
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V22\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.ui.FormContactCollection.resources
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V22\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.ui.FormEspaceContactBD.resources
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V22\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.ui.FormMenuApp.resources
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V22\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.csproj.GenerateResource.cache
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V22\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V22\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.AssemblyInfoInputs.cache
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V22\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.AssemblyInfo.cs
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V22\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.csproj.CoreCompileInputs.cache
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V22\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.csproj.CopyComplete
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V22\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.dll
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V22\project_Contact_TP\obj\Debug\net6.0-windows\refint\project_Contact_TP.dll
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V22\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.pdb
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V22\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.genruntimeconfig.cache
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V22\project_Contact_TP\obj\Debug\net6.0-windows\ref\project_Contact_TP.dll
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V2\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.ui.FormAddContact.resources
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V2\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.ui.FormContactCollection.resources
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V3_GridView\project_Contact_TP\bin\Debug\net6.0-windows\project_Contact_TP.exe
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V3_GridView\project_Contact_TP\bin\Debug\net6.0-windows\project_Contact_TP.deps.json
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V3_GridView\project_Contact_TP\bin\Debug\net6.0-windows\project_Contact_TP.runtimeconfig.json
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V3_GridView\project_Contact_TP\bin\Debug\net6.0-windows\project_Contact_TP.dll
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V3_GridView\project_Contact_TP\bin\Debug\net6.0-windows\project_Contact_TP.pdb
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V3_GridView\project_Contact_TP\bin\Debug\net6.0-windows\mysql.data.dll
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V3_GridView\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.csproj.AssemblyReference.cache
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V3_GridView\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.Properties.Resources.resources
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V3_GridView\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.ui.FormAddContact.resources
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V3_GridView\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.ui.FormAddFournisseur.resources
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V3_GridView\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.ui.FormContactCollection.resources
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V3_GridView\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.ui.FormEspaceContactBD.resources
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V3_GridView\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.ui.FormMenuApp.resources
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V3_GridView\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.csproj.GenerateResource.cache
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V3_GridView\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V3_GridView\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.AssemblyInfoInputs.cache
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V3_GridView\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.AssemblyInfo.cs
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V3_GridView\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.csproj.CoreCompileInputs.cache
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V3_GridView\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.csproj.CopyComplete
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V3_GridView\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.dll
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V3_GridView\project_Contact_TP\obj\Debug\net6.0-windows\refint\project_Contact_TP.dll
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V3_GridView\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.pdb
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V3_GridView\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.genruntimeconfig.cache
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V3_GridView\project_Contact_TP\obj\Debug\net6.0-windows\ref\project_Contact_TP.dll
+C:\Users\afsha\source\repos\project_Contact_TP_V3_GridView\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.csproj.AssemblyReference.cache
+C:\Users\afsha\source\repos\project_Contact_TP_V3_GridView\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.dll
+C:\Users\afsha\source\repos\project_Contact_TP_V3_GridView\project_Contact_TP\obj\Debug\net6.0-windows\refint\project_Contact_TP.dll
+C:\Users\afsha\source\repos\project_Contact_TP_V3_GridView\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.pdb
+C:\Users\afsha\source\repos\project_Contact_TP_V3_GridView\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.Properties.Resources.resources
+C:\Users\afsha\source\repos\project_Contact_TP_V3_GridView\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.ui.FormAddContact.resources
+C:\Users\afsha\source\repos\project_Contact_TP_V3_GridView\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.ui.FormAddFournisseur.resources
+C:\Users\afsha\source\repos\project_Contact_TP_V3_GridView\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.ui.FormContactCollection.resources
+C:\Users\afsha\source\repos\project_Contact_TP_V3_GridView\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.ui.FormEspaceContactBD.resources
+C:\Users\afsha\source\repos\project_Contact_TP_V3_GridView\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.ui.FormMenuApp.resources
+C:\Users\afsha\source\repos\project_Contact_TP_V3_GridView\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.csproj.GenerateResource.cache
+C:\Users\afsha\source\repos\project_Contact_TP_V3_GridView\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\afsha\source\repos\project_Contact_TP_V3_GridView\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.AssemblyInfoInputs.cache
+C:\Users\afsha\source\repos\project_Contact_TP_V3_GridView\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.AssemblyInfo.cs
+C:\Users\afsha\source\repos\project_Contact_TP_V3_GridView\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.csproj.CoreCompileInputs.cache
+C:\Users\afsha\source\repos\project_Contact_TP_V3_GridView\project_Contact_TP\bin\Debug\net6.0-windows\project_Contact_TP.exe
+C:\Users\afsha\source\repos\project_Contact_TP_V3_GridView\project_Contact_TP\bin\Debug\net6.0-windows\project_Contact_TP.deps.json
+C:\Users\afsha\source\repos\project_Contact_TP_V3_GridView\project_Contact_TP\bin\Debug\net6.0-windows\project_Contact_TP.runtimeconfig.json
+C:\Users\afsha\source\repos\project_Contact_TP_V3_GridView\project_Contact_TP\bin\Debug\net6.0-windows\project_Contact_TP.dll
+C:\Users\afsha\source\repos\project_Contact_TP_V3_GridView\project_Contact_TP\bin\Debug\net6.0-windows\project_Contact_TP.pdb
+C:\Users\afsha\source\repos\project_Contact_TP_V3_GridView\project_Contact_TP\bin\Debug\net6.0-windows\mysql.data.dll
+C:\Users\afsha\source\repos\project_Contact_TP_V3_GridView\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.csproj.CopyComplete
+C:\Users\afsha\source\repos\project_Contact_TP_V3_GridView\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.genruntimeconfig.cache
+C:\Users\afsha\source\repos\project_Contact_TP_V3_GridView\project_Contact_TP\obj\Debug\net6.0-windows\ref\project_Contact_TP.dll
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V9_GridView\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.csproj.AssemblyReference.cache
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V9_GridView\project_Contact_TP\bin\Debug\net6.0-windows\project_Contact_TP.exe
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V9_GridView\project_Contact_TP\bin\Debug\net6.0-windows\project_Contact_TP.deps.json
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V9_GridView\project_Contact_TP\bin\Debug\net6.0-windows\project_Contact_TP.runtimeconfig.json
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V9_GridView\project_Contact_TP\bin\Debug\net6.0-windows\project_Contact_TP.dll
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V9_GridView\project_Contact_TP\bin\Debug\net6.0-windows\project_Contact_TP.pdb
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V9_GridView\project_Contact_TP\bin\Debug\net6.0-windows\mysql.data.dll
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V9_GridView\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.Properties.Resources.resources
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V9_GridView\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.ui.FormAddContact.resources
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V9_GridView\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.ui.FormAddFournisseur.resources
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V9_GridView\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.ui.FormContactCollection.resources
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V9_GridView\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.ui.FormEspaceContactBD.resources
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V9_GridView\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.ui.FormMenuApp.resources
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V9_GridView\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.csproj.GenerateResource.cache
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V9_GridView\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V9_GridView\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.AssemblyInfoInputs.cache
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V9_GridView\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.AssemblyInfo.cs
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V9_GridView\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.csproj.CoreCompileInputs.cache
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V9_GridView\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.csproj.CopyComplete
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V9_GridView\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.dll
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V9_GridView\project_Contact_TP\obj\Debug\net6.0-windows\refint\project_Contact_TP.dll
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V9_GridView\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.pdb
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V9_GridView\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.genruntimeconfig.cache
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP SESSION\project_Contact_TP_V9_GridView\project_Contact_TP\obj\Debug\net6.0-windows\ref\project_Contact_TP.dll
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\projet_session\project_Contact_TP_V9_GridView\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.csproj.AssemblyReference.cache
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\projet_session\project_Contact_TP_V9_GridView\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.dll
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\projet_session\project_Contact_TP_V9_GridView\project_Contact_TP\obj\Debug\net6.0-windows\refint\project_Contact_TP.dll
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\projet_session\project_Contact_TP_V9_GridView\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.pdb
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\projet_session\project_Contact_TP_V9_GridView\project_Contact_TP\bin\Debug\net6.0-windows\project_Contact_TP.exe
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\projet_session\project_Contact_TP_V9_GridView\project_Contact_TP\bin\Debug\net6.0-windows\project_Contact_TP.deps.json
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\projet_session\project_Contact_TP_V9_GridView\project_Contact_TP\bin\Debug\net6.0-windows\project_Contact_TP.runtimeconfig.json
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\projet_session\project_Contact_TP_V9_GridView\project_Contact_TP\bin\Debug\net6.0-windows\project_Contact_TP.dll
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\projet_session\project_Contact_TP_V9_GridView\project_Contact_TP\bin\Debug\net6.0-windows\project_Contact_TP.pdb
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\projet_session\project_Contact_TP_V9_GridView\project_Contact_TP\bin\Debug\net6.0-windows\mysql.data.dll
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\projet_session\project_Contact_TP_V9_GridView\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.Properties.Resources.resources
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\projet_session\project_Contact_TP_V9_GridView\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.ui.FormAddContact.resources
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\projet_session\project_Contact_TP_V9_GridView\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.ui.FormAddFournisseur.resources
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\projet_session\project_Contact_TP_V9_GridView\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.ui.FormEspaceContactBD.resources
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\projet_session\project_Contact_TP_V9_GridView\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.ui.FormMenuApp.resources
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\projet_session\project_Contact_TP_V9_GridView\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.csproj.GenerateResource.cache
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\projet_session\project_Contact_TP_V9_GridView\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\projet_session\project_Contact_TP_V9_GridView\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.AssemblyInfoInputs.cache
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\projet_session\project_Contact_TP_V9_GridView\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.AssemblyInfo.cs
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\projet_session\project_Contact_TP_V9_GridView\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.csproj.CoreCompileInputs.cache
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\projet_session\project_Contact_TP_V9_GridView\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.csproj.CopyComplete
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\projet_session\project_Contact_TP_V9_GridView\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.genruntimeconfig.cache
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\projet_session\project_Contact_TP_V9_GridView\project_Contact_TP\obj\Debug\net6.0-windows\ref\project_Contact_TP.dll
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\projet_session\project_Contact_TP_V9_GridView\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.ui.FormEspaceManipCollection.resources
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP_Session_Contact_Yosra_Saba\project_Contact_TP\project_Contact_TP\bin\Debug\net6.0-windows\project_Contact_TP.exe
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP_Session_Contact_Yosra_Saba\project_Contact_TP\project_Contact_TP\bin\Debug\net6.0-windows\project_Contact_TP.deps.json
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP_Session_Contact_Yosra_Saba\project_Contact_TP\project_Contact_TP\bin\Debug\net6.0-windows\project_Contact_TP.runtimeconfig.json
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP_Session_Contact_Yosra_Saba\project_Contact_TP\project_Contact_TP\bin\Debug\net6.0-windows\project_Contact_TP.dll
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP_Session_Contact_Yosra_Saba\project_Contact_TP\project_Contact_TP\bin\Debug\net6.0-windows\project_Contact_TP.pdb
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP_Session_Contact_Yosra_Saba\project_Contact_TP\project_Contact_TP\bin\Debug\net6.0-windows\mysql.data.dll
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP_Session_Contact_Yosra_Saba\project_Contact_TP\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.csproj.AssemblyReference.cache
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP_Session_Contact_Yosra_Saba\project_Contact_TP\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.Properties.Resources.resources
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP_Session_Contact_Yosra_Saba\project_Contact_TP\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.ui.FormAddContact.resources
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP_Session_Contact_Yosra_Saba\project_Contact_TP\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.ui.FormAddFournisseur.resources
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP_Session_Contact_Yosra_Saba\project_Contact_TP\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.ui.FormEspaceContactBD.resources
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP_Session_Contact_Yosra_Saba\project_Contact_TP\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.ui.FormEspaceManipCollection.resources
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP_Session_Contact_Yosra_Saba\project_Contact_TP\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.ui.FormMenuApp.resources
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP_Session_Contact_Yosra_Saba\project_Contact_TP\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.csproj.GenerateResource.cache
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP_Session_Contact_Yosra_Saba\project_Contact_TP\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP_Session_Contact_Yosra_Saba\project_Contact_TP\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.AssemblyInfoInputs.cache
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP_Session_Contact_Yosra_Saba\project_Contact_TP\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.AssemblyInfo.cs
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP_Session_Contact_Yosra_Saba\project_Contact_TP\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.csproj.CoreCompileInputs.cache
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP_Session_Contact_Yosra_Saba\project_Contact_TP\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.csproj.CopyComplete
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP_Session_Contact_Yosra_Saba\project_Contact_TP\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.dll
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP_Session_Contact_Yosra_Saba\project_Contact_TP\project_Contact_TP\obj\Debug\net6.0-windows\refint\project_Contact_TP.dll
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP_Session_Contact_Yosra_Saba\project_Contact_TP\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.pdb
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP_Session_Contact_Yosra_Saba\project_Contact_TP\project_Contact_TP\obj\Debug\net6.0-windows\project_Contact_TP.genruntimeconfig.cache
+C:\Users\houas\OneDrive\Bureau\AP\Session 3 AUTON 2022\PROGRAMMATION PAR COMPOSANTS II\TP_Session_Contact_Yosra_Saba\project_Contact_TP\project_Contact_TP\obj\Debug\net6.0-windows\ref\project_Contact_TP.dll
